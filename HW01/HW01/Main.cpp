@@ -15,7 +15,7 @@ double calculateAverage(int numbers[], int size)
 {
 	double sum = calculateSum(numbers, size);
 	double average = sum / size;
-	return sum;
+	return average;
 }
 
 int main()
